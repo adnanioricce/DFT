@@ -1,0 +1,1 @@
+g++ -std=c++20 -Wall -Wextra -pedantic -o bin/dft main.cpp

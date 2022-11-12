@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.fsx": "fsharp",
+        "numbers": "cpp"        
+    }
+}
